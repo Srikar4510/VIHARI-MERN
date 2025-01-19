@@ -8,7 +8,7 @@ To get started with Vihari, follow these steps:
 
 1. Clone the GitHub repository:
 ```bash
-git clone https://github.com/DShreyan/VIHARI-MERN.git
+https://github.com/Srikar4510/VIHARI-MERN.git
 ```
 
 2. Open your terminal and navigate to the cloned directory.
